@@ -5,15 +5,11 @@
 >开箱即用，直接了当的开始开发项目
 
 ### 插件
->Vue-router
-
->Vuex
-
->Axios
-
->Eslint  *默认引入了`eslint-config-kunine`，你可以在`.eslintrc.js`里面更改*
-
->Scss
+- Vue-router
+- Vuex
+- Axios
+- Eslint  *默认引入了`eslint-config-kunine`，你可以在`.eslintrc.js`里面更改*
+- Scss
 
 ### 架构
 *仅显示新增的目录*
