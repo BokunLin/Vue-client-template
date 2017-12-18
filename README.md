@@ -6,9 +6,13 @@
 
 ### 插件
 >Vue-router
+
 >Vuex
+
 >Axios
+
 >Eslint  *默认引入了`eslint-config-kunine`，你可以在`.eslintrc.js`里面更改*
+
 >Scss
 
 ### 架构
